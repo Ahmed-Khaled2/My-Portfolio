@@ -469,7 +469,7 @@ export default function App() {
               <a className="btn btn-ghost" href="#contact" style={{color: darkMode ? 'var(--muted)' : '#1a1a1a', borderColor: 'var(--accent2)'}}>
                 Get in touch
               </a>
-              <a className="btn btn-ghost" href="/Ahmed Khaled.pdf" target="_blank" rel="noreferrer" style={{color: darkMode ? 'var(--muted)' : '#1a1a1a', borderColor: 'var(--accent2)'}}>
+              <a className="btn btn-ghost" href="/My-Portfolio/Ahmed Khaled.pdf" target="_blank" rel="noreferrer" style={{color: darkMode ? 'var(--muted)' : '#1a1a1a', borderColor: 'var(--accent2)'}}>
                 Download CV
               </a>
             </div>
@@ -518,16 +518,16 @@ export default function App() {
           <div className="card" style={{padding: '28px 20px'}}>
             <div style={{display: 'flex', alignItems: 'center', gap: '22px', justifyContent: 'flex-start', flexWrap: 'wrap', marginBottom: '24px'}}>
               <div style={{background: 'white', borderRadius: '13px', padding: '10px', boxShadow: '0 2px 8px rgba(10,15,31,0.10)'}}>
-                <img src="/The British University in Egypt.png" alt="British University in Egypt Logo" style={{height: '76px', width: 'auto', display: 'block'}} />
+                <img src="/My-Portfolio/The British University in Egypt.png" alt="British University in Egypt Logo" style={{height: '76px', width: 'auto', display: 'block'}} />
               </div>
               <div style={{background: 'white', borderRadius: '12px', padding: '10px', boxShadow: '0 2px 8px rgba(10,15,31,0.10)'}}>
-                <img src="/London South Bank University.png" alt="London South Bank University Logo" style={{height: '76px', width: 'auto', display: 'block'}} />
+                <img src="/My-Portfolio/London South Bank University.png" alt="London South Bank University Logo" style={{height: '76px', width: 'auto', display: 'block'}} />
               </div>
               <div style={{background: 'white', borderRadius: '12px', padding: '10px', boxShadow: '0 2px 8px rgba(10,15,31,0.10)'}}>
-                <img src="/Digital Egypt Pioneers Initiative.png" alt="Digital Egypt Pioneers Initiative Logo" style={{height: '76px', width: 'auto', display: 'block'}} />
+                <img src="/My-Portfolio/Digital Egypt Pioneers Initiative.png" alt="Digital Egypt Pioneers Initiative Logo" style={{height: '76px', width: 'auto', display: 'block'}} />
               </div>
               <div style={{background: 'white', borderRadius: '12px', padding: '10px', boxShadow: '0 2px 8px rgba(10,15,31,0.10)'}}>
-                <img src="/Elevvo.png" alt="Elevvo Pathways Logo" style={{height: '76px', width: 'auto', display: 'block'}} />
+                <img src="/My-Portfolio/Elevvo.png" alt="Elevvo Pathways Logo" style={{height: '76px', width: 'auto', display: 'block'}} />
               </div>
             </div>
             <div style={{display: 'flex', flexDirection: 'column', gap: '0px'}}>
