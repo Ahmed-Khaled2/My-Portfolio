@@ -487,7 +487,7 @@ export default function App() {
             </div>
           </div>
           <div className="profile-img">
-            <img src="/Hero Profile.png" alt="Profile" />
+            <img src="/My-Portfolio/Hero-Profile.png" alt="Profile" />
           </div>
         </div>
       </section>
